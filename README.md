@@ -15,8 +15,8 @@ The Smart Business Dashboard is a user-friendly web-based interface that provide
 
 To use the Smart Business Dashboard, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/smart-business-dashboard.git`
-2. Navigate to the project directory: `cd smart-business-dashboard`
+1. Clone the repository: `git clone https://github.com/JakeFils/Business-Dashboard.git`
+2. Navigate to the project directory: `cd business-dashboard`
 3. Open the `index.html` file in a web browser.
 
 ## Customization
