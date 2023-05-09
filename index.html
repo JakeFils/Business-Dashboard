@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Smart Business Dashboard</title>
+  <link rel="stylesheet" type="text/css" href="dashboard.css">
+</head>
+<body>
+  <div id="dashboard">
+    <h1>Smart Business Dashboard</h1>
+
+    <div id="metrics-container">
+      <div class="metric">
+        <h2>Sales</h2>
+        <span id="sales-value">Loading...</span>
+      </div>
+
+      <div class="metric">
+        <h2>Expenses</h2>
+        <span id="expenses-value">Loading...</span>
+      </div>
+
+      <div class="metric">
+        <h2>Customers</h2>
+        <span id="customers-value">Loading...</span>
+      </div>
+    </div>
+
+    <div id="chart-container">
+      <canvas id="chart"></canvas>
+    </div>
+  </div>
+
+  <script src="dashboard.js"></script>
+</body>
+</html>
